@@ -354,14 +354,3 @@ Estas funcionalidades recibieron una valoración muy positiva y continuarán evo
 - Integración con SIEM
 - Soporte para XDR
 
----
-
-> **Continúa en la Parte 2**, donde se incluirán:
->
-> - 📊 Métricas detalladas
-> - 📈 Diagramas en Mermaid
-> - 🛡️ Artículo sobre Ciberseguridad
-> - 📚 Referencias Técnicas
-> - 🤝 Guía de Contribución
-> - 📄 Licencia
-> - 🚀 Estructura Final del Repositorio
