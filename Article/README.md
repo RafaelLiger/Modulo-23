@@ -1,6 +1,8 @@
 # 🌐 Multilingual Edition
 
-This document contains the same article in **three languages**.
+This repository provides the same article in three languages.
+
+Choose your preferred language below:
 
 [![Português](https://img.shields.io/badge/🇧🇷-Português-009C3B?style=for-the-badge)](./Article/Artigo.pdf)
 
